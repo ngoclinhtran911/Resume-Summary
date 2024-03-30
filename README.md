@@ -31,13 +31,10 @@ Employing the Difference-in-Differences (DID) method to analyze the impact of hi
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 
-## Awards and Recognitions:
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Language Proficiency:
+- English: Full Professional Proficiency (IELTS 8.5)
+- Chinese: Full Professional Proficiency (HSK Level 6)
+- Vietnamese: Native
 
 
 ## Publications
