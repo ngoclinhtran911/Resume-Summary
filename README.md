@@ -46,7 +46,7 @@ Employing the **Difference-in-Differences (DID)** method to analyze the impact o
 ## Soft skills
 “I am really proud of everything we have achieved so far, in less than 2 years of partnership. I would like to pass on my very special thanks to Linh. She has done, and continues to do a fantastic job for us, helping me to manage the overall relationship. I rely very heavily on Linh to help me make our partnership successful.”
 -- Voice of customer (SVP of a Top biggest Asset Management firm worldwide) --
-- Communication
+- Effective Communication
 - Problem-solving
 - Dedication and Commitment
 - Leadership
@@ -57,5 +57,5 @@ Employing the **Difference-in-Differences (DID)** method to analyze the impact o
 - Vietnamese: Native
 
 ## Publications
-- High-tech Parks in Developing countries: an empirical research on Vietnam's high-tech parks and their role in the country's regional economy development
-(In publication process)
+- High-tech Parks in Developing countries: an empirical research on Vietnam's high-tech parks and their role in the country's regional economy development\
+(to be published)
