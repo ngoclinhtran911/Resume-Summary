@@ -1,5 +1,10 @@
 # Data Analyst
 
+#### About me
+I am an experienced KAM and BD in Tech turning Data Analyst, with vast experience working with major clients in international working environment.
+Master degree graduate in Economics from Central University of Economics and Finance (Top 1 Economics school in China). 
+Seeking for the next challenge where I can combine practical business knowldege with a touch of data.
+
 #### Technical Skills: SQL, Excel, Python, Power BI
 
 ## Education
@@ -22,6 +27,11 @@ Programming Language: R
 
 Employing the Difference-in-Differences (DID) method to analyze the impact of high-tech zone establishment on regional economic growth and Spatial Difference-in-Differences (SDID) to further discern the spilloerver effect of high-tech zones, on the data from 40 prefecture-level cities and provinces in key economic regions in Vietnam from 1990 to 2022. The results unveil a positive significant impact of high-tech parks on the economic growth, but no clear evidence of the spillover effect. It also display the disparity in economy level between three areas - Northern, Southern and Central in Vietnam.
 
+## Professional Certificates
+- Python for Data Science course (Mentori Technology School)
+- SQL and Power BI for Data Analyst (Mentori Technology School)
+- SQL Intermediate (HackerRank)
+- SQL 5-star Badge (HackerRank)
 
 ## Work Experience
 **BOD Executive Assistant @ Rikkeisoft Corporation (_April 2021 - April 2024_)**
@@ -33,13 +43,15 @@ Employing the Difference-in-Differences (DID) method to analyze the impact of hi
  (100-headcount size ODC)
 - Market research and analysis, market penetrating strategy. Lead BD team and manage sales partners to expand in the EMEA market.
 
-## Professional Certificates:
-- Python for Data Science course (Mentori)
-- SQL and Power BI for Data Analyst (Mentori)
-- SQL Intermediate (HackerRank)
-- SQL 5-star Badge (HackerRank)
+## Soft skills
+“I am really proud of everything we have achieved so far, in less than 2 years of partnership. I would like to pass on my very special thanks to Linh. She has done, and continues to do a fantastic job for us, helping me to manage the overall relationship. I rely very heavily on Linh to help me make our partnership successful.”
+-- Voice of customer (SVP of a Top biggest Asset Management firm worldwide) --
+- Communication
+- Problem-solving
+- Dedication and Commitment
+- Leadership
   
-## Language Proficiency:
+## Language Proficiency
 - English: Full Professional Proficiency (IELTS 8.5)
 - Chinese (Mandarin): Full Professional Proficiency (HSK Level 6)
 - Vietnamese: Native
