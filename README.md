@@ -14,13 +14,13 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Empirical reseach on the impact of high-tech parks on the regional economic growth of Vietnam and the its spillover effect 
-Methods: Difference in Difference, Staggered DID, Spatial DID
+### Impact of high-tech parks on the regional economic growth of Vietnam and the spillover effect 
+Methods: Difference in Difference, Staggered DID, Spatial DID\
 Programming Language: R
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Employing the Difference-in-Differences (DID) method to analyze the impact of high-tech zone establishment on regional economic growth and Spatial Difference-in-Differences (SDID) to further discern the spilloerver effect of high-tech zones, on the data from 40 prefecture-level cities and provinces in key economic regions in Vietnam from 1990 to 2022. The results unveil a positive significant impact of high-tech parks on the economic growth, but no clear evidence of the spillover effect. It also display the disparity in economy level between three areas - Northern, Southern and Central in Vietnam.
+![image](https://github.com/ngoclinhtran911/portfolio/assets/165343651/67846ed3-c214-4b9c-a7bc-8170759962d0)
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
