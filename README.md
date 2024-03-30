@@ -43,7 +43,7 @@ Employing the **Difference-in-Differences (DID)** method to analyze the impact o
  (100-headcount size ODC)
 - Market research and analysis, market penetrating strategy. Lead BD team and manage sales partners to expand in the EMEA market.
 
-## Soft skills
+## Soft Skills
 “I am really proud of everything we have achieved so far, in less than 2 years of partnership. I would like to pass on my very special thanks to Linh. She has done, and continues to do a fantastic job for us, helping me to manage the overall relationship. I rely very heavily on Linh to help me make our partnership successful.”
 -- Voice of customer (SVP of a Top biggest Asset Management firm worldwide) --
 - Effective Communication
@@ -58,4 +58,4 @@ Employing the **Difference-in-Differences (DID)** method to analyze the impact o
 
 ## Publications
 - High-tech Parks in Developing countries: an empirical research on Vietnam's high-tech parks and their role in the country's regional economy development\
-(to be published)
+(To be published)
