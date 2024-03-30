@@ -3,8 +3,10 @@
 #### Technical Skills: SQL, Excel, Python, Power BI
 
 ## Education
-- M.S., Economics	| Central University of Finance and Economics in Beijing, China (_June 2024_)	 			        		
-- B.S., International Relations | Diplomatic Academy of Vietnam (_June 2018_)
+- M.S., Economics	| Central University of Finance and Economics in Beijing, China (_June 2024_)\
+CSC scholarship, Dong Fangyi Scholarship            		
+- B.S., International Relations | Diplomatic Academy of Vietnam (_June 2018_)\
+Graduation Ranking: Excellent (ranked 2nd)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -22,20 +24,25 @@ Employing the Difference-in-Differences (DID) method to analyze the impact of hi
 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**BOD Executive Assistant @ Rikkeisoft Corporation (_April 2021 - April 2024_)**
+- Gathering, reconcile and prescreen information from departments to make monthly, quarterly or ad-hoc reports. Cut down 50% time for BOD members to check on operation reports by previewing reports, making highlights before submitting to BOD
+- Increase efficiency of BOD meetings by generating clear agendas and ensuring follow-through of all discussed items
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Global Key Account Manager & BD Manager @ Rikkeisoft Corporation (_2019 - April 2024_)**
+- Manage “whale” accounts generating multi-million dollars in yearly revenue, including Rikkeisoft’s current biggest key account
+ (100-headcount size ODC)
+- Market research and analysis, market penetrating strategy. Lead BD team and manage sales partners to expand in the EMEA market.
 
-
+## Professional Certificates:
+- Python for Data Science course (Mentori)
+- SQL and Power BI for Data Analyst (Mentori)
+- SQL Intermediate (HackerRank)
+- SQL 5-star Badge (HackerRank)
+  
 ## Language Proficiency:
 - English: Full Professional Proficiency (IELTS 8.5)
-- Chinese: Full Professional Proficiency (HSK Level 6)
+- Chinese (Mandarin): Full Professional Proficiency (HSK Level 6)
 - Vietnamese: Native
-
 
 ## Publications
 - High-tech Parks in Developing countries: an empirical research on Vietnam's high-tech parks and their role in the country's regional economy development
