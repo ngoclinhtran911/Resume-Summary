@@ -1,11 +1,11 @@
 # Data Analyst
 
-## About me
+#### About me
 I am an experienced KAM and BD in Tech transforming into a Data Analyst, with vast experience with major clients in international working environments.
 Master degree graduate in Economics from Central University of Economics and Finance (Top 1 Economics school in China). 
 Seeking for the next challenge where I can bring my wealth of practical business knowldege with a magic touch of data.
 
-## Technical Skills: SQL, Excel, Python, Power BI
+#### Technical Skills: SQL, Excel, Python, Power BI
 
 ## Education
 - M.S., Economics	| Central University of Finance and Economics in Beijing, China (_June 2024_)\
@@ -25,7 +25,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Methods: Difference in Difference, Staggered DID, Spatial DID\
 Programming Language: R
 
-Employing the Difference-in-Differences (DID) method to analyze the impact of high-tech zone establishment on regional economic growth and Spatial Difference-in-Differences (SDID) to further discern the spilloerver effect of high-tech zones, on the data from 40 prefecture-level cities and provinces in key economic regions in Vietnam from 1990 to 2022. The results unveil a positive significant impact of high-tech parks on the economic growth, but no clear evidence of the spillover effect. It also display the disparity in economy level between three areas - Northern, Southern and Central in Vietnam.
+Employing the **Difference-in-Differences (DID)** method to analyze the impact of high-tech zone establishment on regional economic growth and Spatial Difference-in-Differences (SDID) to further discern the spilloerver effect of high-tech zones, on the data from 40 prefecture-level cities and provinces in key economic regions in Vietnam from 1990 to 2022. The results unveil a positive significant impact of high-tech parks on the economic growth, but no clear evidence of the spillover effect. It also display the disparity in economy level between three areas - Northern, Southern and Central in Vietnam.
 
 ## Professional Certificates
 - Python for Data Science course (Mentori Technology School)
