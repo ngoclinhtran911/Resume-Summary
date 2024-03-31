@@ -35,7 +35,7 @@ Programming Language: R
 
 Employing the **Difference-in-Differences (DID)** method to analyze the impact of high-tech zone establishment on regional economic growth and Spatial Difference-in-Differences (SDID) to further discern the spilloerver effect of high-tech zones, on the data from 40 prefecture-level cities and provinces in key economic regions in Vietnam from 1990 to 2022. The results unveil a positive significant impact of high-tech parks on the economic growth, but no clear evidence of the spillover effect. It also displays the disparity in economy level between three areas - Northern, Southern and Central in Vietnam.
 
-![hightech] (hightechDID.jpeg)
+![hightech](hightechDID.jpeg)
 
 ## Professional Certificates
 - Python for Data Science course (Mentori Technology School)
@@ -44,13 +44,11 @@ Employing the **Difference-in-Differences (DID)** method to analyze the impact o
 - SQL 5-star Badge (HackerRank)
 
 ## Work Experience
-**BOD Executive Assistant @ Rikkeisoft Corporation**\ 
-(_April 2021 - April 2024_)
+**BOD Executive Assistant @ Rikkeisoft Corporation** (_April 2021 - April 2024_)
 - Gathering, reconcile and prescreen information from departments to make monthly, quarterly or ad-hoc reports. Cut down 50% time for BOD members to check on operation reports by previewing reports, making highlights before submitting to BOD
 - Increase efficiency of BOD meetings by generating clear agendas and ensuring follow-through of all discussed items
 
-**Global Key Account Manager & BD Manager @ Rikkeisoft Corporation** 
-(_2019 - April 2024_)
+**Global Key Account Manager & BD Manager @ Rikkeisoft Corporation** (_2019 - April 2024_)
 - Manage “whale” accounts generating multi-million dollars in yearly revenue, including Rikkeisoft’s current biggest key account
  (100-headcount size ODC)
 - Market research and analysis, market penetrating strategy. Lead BD team and manage sales partners to expand in the EMEA market.
