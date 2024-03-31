@@ -34,11 +34,13 @@ Employing the **Difference-in-Differences (DID)** method to analyze the impact o
 - SQL 5-star Badge (HackerRank)
 
 ## Work Experience
-**BOD Executive Assistant @ Rikkeisoft Corporation (_April 2021 - April 2024_)**
+**BOD Executive Assistant @ Rikkeisoft Corporation** 
+(_April 2021 - April 2024_)
 - Gathering, reconcile and prescreen information from departments to make monthly, quarterly or ad-hoc reports. Cut down 50% time for BOD members to check on operation reports by previewing reports, making highlights before submitting to BOD
 - Increase efficiency of BOD meetings by generating clear agendas and ensuring follow-through of all discussed items
 
-**Global Key Account Manager & BD Manager @ Rikkeisoft Corporation (_2019 - April 2024_)**
+**Global Key Account Manager & BD Manager @ Rikkeisoft Corporation** 
+(_2019 - April 2024_)
 - Manage “whale” accounts generating multi-million dollars in yearly revenue, including Rikkeisoft’s current biggest key account
  (100-headcount size ODC)
 - Market research and analysis, market penetrating strategy. Lead BD team and manage sales partners to expand in the EMEA market.
