@@ -27,7 +27,7 @@ Programming Language: Python
 
 A EDA and Predictive Analysis project using **Python** to diagnose the risk of early stage diabete based on some demographic and observed symptoms. The dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient, collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh. By applying Machine Learning models, the project aims to identify if there is a relation between patients suffering from obesity and their risks of having dibetes.
 
-!(/diabetes.jpeg)
+![diabete](/Resume-Summary/diabetes.jpeg)
 
 ### Impact of High-tech Parks on the Regional economic growth of Vietnam and their Spillover effect 
 Methods: Difference in Difference, Staggered DID, Spatial DID\
