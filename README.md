@@ -1,5 +1,4 @@
-# Linh Tran
-![profile](/IMG_9680-美签.jpeg)
+# Data Analyst
 
 #### About me
 I am an experienced KAM and BD in Tech transforming into a Data Analyst, with vast experience with major clients in international working environments.
