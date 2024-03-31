@@ -1,3 +1,6 @@
 # add the following to _config.yml file
-title: LINH TRAN
+title: Linh Tran (Amelia)
+logo: /profile.png
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
