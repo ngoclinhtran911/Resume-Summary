@@ -14,6 +14,13 @@ CSC scholarship, Dong Fangyi Scholarship
 Graduation Ranking: Excellent (ranked 2nd)
 
 ## Projects
+### Sales Analysis of Soi Bien - fresh groceries Retail Chain in Vietnam
+Methods: EDA\
+Programming Language: Python
+
+Conducting analysis based on sales data of Soi Bien chain, using Python and Pandas. Create monthly reports on sales revenue, identify unusual changes overtime, identify frequent customers, prediction on product needs and sales, churn problem.
+
+
 ### Early Stage Diabetes Prediction (Kaggle)
 Methods: EDA, Predictive & Classification models\
 Programming Language: Python
