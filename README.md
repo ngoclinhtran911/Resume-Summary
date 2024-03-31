@@ -15,7 +15,7 @@ Graduation Ranking: Excellent (ranked 2nd)
 
 ## Projects
 ### Early Stage Diabetes Prediction (Kaggle)
-Methods: EDA, Predictive & Classification models
+Methods: EDA, Predictive & Classification models\
 Programming Language: Python
 
 A EDA and Predictive Analysis project using **Python** to diagnose the risk of early stage diabete based on some demographic and observed symptoms. The dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient, collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh. By applying Machine Learning models, the project aims to identify if there is a relation between patients suffering from obesity and their risks of having dibetes.
