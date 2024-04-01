@@ -21,6 +21,14 @@ Programming Language: Python
 Conducting analysis based on sales data of Soi Bien chain, using Python and Pandas. Create monthly reports on sales revenue, identify unusual changes overtime, identify frequent customers, prediction on product needs and sales, churn problem. Make suggestions for sales and marketing operation to improve revenue.
 ![soi_bien](soi_bien.jpeg)
 
+### Car Sales Analysis 
+Methods: Machine Learning models
+Programming Language: Python
+
+Based on a Car Sales dataset of information on car sales from a car dealership over the course of a year. The objective of the project is to analyze car sales trends over time and evaluate the performance of individual salespeople in the dealership. Also, used to predict sales performance and identify the impact of different factors on car sales, such as car make, model, year, and salesperson performance.
+
+
+
 ### Early Stage Diabetes Prediction (Kaggle)
 Methods: EDA, Predictive & Classification models\
 Programming Language: Python
